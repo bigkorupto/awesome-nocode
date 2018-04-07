@@ -5,7 +5,7 @@ A collection about awesome no code - Why code? Let's go shopping! Let's buy prog
 
 ## No Code 
 
-- [**No Code (Classic Open Source Version)**](https://github.com/kelseyhightower/nocode) ★19 551 by Kelsey Hightower -- No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere; 1 792 open issues, 297 open pull requests.
+- [**No Code (Classic Open Source Version, Free Download)**](https://github.com/kelseyhightower/nocode) ★19 551 by Kelsey Hightower -- No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere; 1 792 open issues, 297 open pull requests.
 
 
 
