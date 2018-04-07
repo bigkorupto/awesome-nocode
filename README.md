@@ -14,7 +14,7 @@ A collection about awesome no code - Why code? Let's go shopping! Let's buy prog
 
 
 
-## Don't Do Videos
+## Don't Do Bad Practices Videos
 
 - [**One Hacker Way (A Rational Alternative for "Agile")**](https://www.youtube.com/watch?v=2u0sNRO-QKQ) by Erik Meijer -- Code, Code, Code
 - [**One Hacker Way (Cont.)**](https://www.youtube.com/watch?v=FvMuPtuvP5w) by Erik Meijer @ GOTO 2015 Conference -- Code, Code, Code 
