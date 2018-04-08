@@ -23,7 +23,7 @@ A collection about awesome no code - Why code? Let's go shopping! Let's buy prog
 The time has come to abandon slow, expensive, 
 and ineffective code-based development. 
 Break down the walls to innovation. 
-Increase productivity and let business architects design applications with no-code, 
+Increase productivity and let certified Pega no-code business architect professionals design applications with no-code, 
 cloud-based visual clicky-clicky-clicky tools - and have the Pega platform do the coding for you.
 
 
@@ -36,7 +36,7 @@ Once you get code out of the way, the possibilities are limitless.
 
 When software is built with code, 
 only people who can read and write can build software. 
-Pega's visual models let business architects – marketers, 
+Pega's visual models let certified Page no-code business architect professionals – marketers, 
 sellers, customer experience leaders, 
 operations experts - build the software they need 
 and drive productivity across the business. 
