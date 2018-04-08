@@ -23,8 +23,8 @@ A collection about awesome no code - Why code? Let's go shopping! Let's buy prog
 The time has come to abandon slow, expensive, 
 and ineffective code-based development. 
 Break down the walls to innovation. 
-Increase productivity and let businesspeople design applications with no-code, 
-cloud-based visual tools - and have the Pega Platform do the coding for you.
+Increase productivity and let business architects design applications with no-code, 
+cloud-based visual clicky-clicky-clicky tools - and have the Pega platform do the coding for you.
 
 
 Breaking the shackles of code delivers immediate results. 
@@ -35,8 +35,8 @@ You innovate and leap-frog competition while delivering extraordinary value to y
 Once you get code out of the way, the possibilities are limitless.
 
 When software is built with code, 
-only people who understand code can build software. 
-Pega's visual models let businesspeople – marketers, 
+only people who can read and write can build software. 
+Pega's visual models let business architects – marketers, 
 sellers, customer experience leaders, 
 operations experts - build the software they need 
 and drive productivity across the business. 
@@ -46,7 +46,7 @@ Want to do 1:1 marketing? Design your decision strategies.
 
 Beyond Future-Proof - Future Empowered.
 
-Technology comes at you fast. That funky Javascript library your UX guy told you about? Already outdated. The mobile app you rolled last year? Ancient.
+Technology comes at you fast. That funky Javascript library your customer experience guy told you about? Already outdated. The mobile app you rolled last year? Ancient.
 
 When you code applications, you take on the heavy lifting of keeping them up to date. Want to use the latest HTML templating? Recode the app. Want to increase performance with a new caching layer? Recode the app.
 
