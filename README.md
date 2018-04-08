@@ -36,7 +36,7 @@ Once you get code out of the way, the possibilities are limitless.
 
 When software is built with code, 
 only people who can read and write can build software. 
-Pega's visual models let certified Page no-code business architect professionals – marketers, 
+Pega's visual models let certified Pega no-code business architect professionals – marketers, 
 sellers, customer experience leaders, 
 operations experts - build the software they need 
 and drive productivity across the business. 
