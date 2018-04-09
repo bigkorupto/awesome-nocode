@@ -11,6 +11,24 @@ A collection about awesome no code - Why code? Let's go shopping! Let's buy prog
 - [**No Code Compiler**](https://github.com/tahnik/nocode-compiler) by Tahnik Mustasin -- The perfect no code compiler that compiles nothing to all platforms. Enjoy fast, native application performance at no cost.
 
 
+## No Code Trivia Quiz
+
+### Q: What's the name for someone who can't read & write?
+
+- (A) Chief Alphabet Officer
+- (B) Illiterate Know-All / Know-Nothing
+- (C) No Alphabet Creative
+- (D) Other - Please Tell 
+
+### Q: What's the name for someone who can't read & write code?
+
+- (A) Chief Digital Officer
+- (B) Certified No Code Business Architect®
+- (C) Pega Marketing Bullshitter
+- (D) Other - Please Tell
+
+
+
 ## Real-World Case Studies
 
 ### Pega
@@ -23,7 +41,7 @@ A collection about awesome no code - Why code? Let's go shopping! Let's buy prog
 The time has come to abandon slow, expensive, 
 and ineffective code-based development. 
 Break down the walls to innovation. 
-Increase productivity and let certified Pega no-code business architect professionals design applications with no-code, 
+Increase productivity and let Certified Pega No Code Business Architect® professionals design applications with no-code, 
 cloud-based visual clicky-clicky-clicky tools - and have the Pega platform do the coding for you.
 
 
@@ -36,7 +54,7 @@ Once you get code out of the way, the possibilities are limitless.
 
 When software is built with code, 
 only people who can read and write can build software. 
-Pega's visual models let certified Pega no-code business architect professionals – marketers, 
+Pega's visual models let Certified Pega No Code Business Architect® professionals – marketers, 
 sellers, customer experience leaders, 
 operations experts - build the software they need 
 and drive productivity across the business. 
@@ -53,6 +71,9 @@ When you code applications, you take on the heavy lifting of keeping them up to 
 Design your application instead with no code! 
 
 (Source: [Go Code Free with Pega - The Power of Marketing Bullshit](https://www.pega.com/technology/software-writes-your-software))
+
+Start your no code subscription today. Starting at €€€ 20 000 per employee/year. It's a steal!
+Get locked-in with no code! Say no! no! no! to free open (source) code, languages, scripts & formats. 
 
 
 
