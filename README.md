@@ -28,6 +28,12 @@ A collection about awesome no code - Why code? Let's go shopping! Let's buy prog
 - (D) Other - Please Tell
 
 
+![](i/commitstrip-nocoders.png)
+
+(Source: [CommitStrip, A very comprehensive and precise spec](http://www.commitstrip.com/en/2016/08/25/a-very-comprehensive-and-precise-spec/), August 25th, 2016)
+
+
+
 
 ## Real-World Case Studies
 
