@@ -10,6 +10,9 @@ A collection about awesome no code - Why code? Let's go shopping! Let's buy prog
 
 - [**No Code Compiler**](https://github.com/tahnik/nocode-compiler) by Tahnik Mustasin -- The perfect no code compiler that compiles nothing to all platforms. Enjoy fast, native application performance at no cost.
 
+- [**No Code OhChain**](https://github.com/sjwaight/ohchain) by Simon Waight -- The first blockchain implementation based on nocode framework.
+
+- [**No Code The Hard Way**](https://github.com/fdegir/nocode-the-hard-way) by Fatih Degirmenci -- setting up NoCode cluster the hard way.
 
 ## No Code Trivia Quiz
 
