@@ -14,6 +14,7 @@ A collection about awesome no code - Why code? Let's go shopping! Let's buy prog
 
 - [**No Code Cluster - The Hard Way**](https://github.com/fdegir/nocode-the-hard-way) by Fatih Degirmenci -- Step-by-step tutorial that walks you through setting up a no code cluster the hard way.
 
+- [**No Code Framworks, Libraries, Software and Resources**](https://github.com/notpushkin/awesome-nocode) by Alexander Pushkov -- A curated awesome no code list from admin panels to web crawling. Bonus: Includes no code podcast and web weekly recommendations.
 
 
 ## No Code Trivia Quiz
